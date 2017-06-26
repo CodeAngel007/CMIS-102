@@ -3,7 +3,6 @@ int main ()
 {
   /* variable definition: */
   int a, b, c; 
- 
   /* variable initialization */
   a = 100;
   b = 30;  
